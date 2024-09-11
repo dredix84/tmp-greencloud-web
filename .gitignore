@@ -1,0 +1,10 @@
+/config/app.php
+/tmp/*
+/logs/*.log
+tests/
+receipts_files/*.pdf
+nbproject/
+.idea/
+node_modules
+/vendor/
+/webroot/coverage/

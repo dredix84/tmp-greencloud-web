@@ -1,0 +1,45 @@
+msgid "Parish State"
+msgstr "Parish/State/Province"
+
+msgid "Submit"
+msgstr "<i class='fa fa-save'></i> Save"
+
+msgid "View"
+msgstr "<i class="fa fa-dot-circle-o"></i> View"
+
+msgid "Edit"
+msgstr "<i class="fa fa-pencil"></i> Edit"
+
+msgid "Delete"
+msgstr "<i class="fa fa-trash-o"></i> Delete"
+
+msgid "Preform Search"
+msgstr "<i class="fa fa-search"></i> Search"
+
+msgid "Export Search to Excel"
+msgstr "<i class="fa fa-file-excel-o "></i> Export to Excel"
+
+
+msgid "Enter your search term"
+msgstr "Enter your search term ..."
+
+msgid "previous"
+msgstr "< Previous"
+
+msgid "next"
+msgstr "Next >"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Sign Up"
+msgstr "Sign Up"
+
+msgid "Sign In"
+msgstr "Sign In"
+
+msgid "Change My Password"
+msgstr "<i class="fa fa-user"></i> Change My Password"
+
+msgid "My Profile"
+msgstr "<i class="fa fa-user"></i> My Profile"

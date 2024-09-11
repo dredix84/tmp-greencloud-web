@@ -1,0 +1,21 @@
+/* Add here all your CSS customizations */
+
+a.btn-primary{
+    color: #FFF !important;
+}
+
+.receiptTextPreview{
+    background-color: #FFF !important;
+}
+
+.responseError > h2,  .responseError > p > strong{
+    color: red;
+}
+
+.datepicker{
+    z-index: 9999 !important;
+}
+
+.right{
+    float: right;
+}

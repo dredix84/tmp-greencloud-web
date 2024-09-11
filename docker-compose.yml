@@ -1,0 +1,16 @@
+version: '3'
+services:
+  apache-php7:
+    build:
+      context: ./docker/appserver
+    volumes:
+      - './docker/appserver/apache-sites-available:/etc/apache2/sites-available'
+      - '.:/var/www/html'
+    environment:
+      - 'WEB_SERVER_NAME=${WEB_SERVER_URL}'
+    entrypoint: /entrypoint.sh
+    restart: '${RESTART_SERVER}'
+    ports:
+      - '8081:80'
+volumes:
+  db-data: {}
